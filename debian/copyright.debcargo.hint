@@ -4,12 +4,17 @@ Upstream-Contact: Jonathan Reem <jonathan.reem@gmail.com>
 Source: https://github.com/reem/rust-void.git
 
 Files: *
-Copyright: 2015-2018 Jonathan Reem <jonathan.reem@gmail.com>
+Copyright: FIXME (overlay) UNKNOWN Jonathan Reem <jonathan.reem@gmail.com>
 License: MIT
+Comment:
+ FIXME (overlay): Since upstream copyright years are not available in
+ Cargo.toml, they were extracted from the upstream Git repository. This may not
+ be correct information so you should review and fix this before uploading to
+ the archive.
 
 Files: debian/*
 Copyright: 2018 Rust Maintainers <pkg-rust-maintainers@alioth-lists.debian.net>
-           2018 Ximin Luo <infinity0@debian.org>
+           2018 FIXME (overlay) Your Name <Your Email>
 License: MIT
 
 License: MIT
@@ -30,3 +35,6 @@ License: MIT
  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE.
+
+
+
