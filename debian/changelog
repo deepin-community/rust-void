@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+rust-void (1.0.2-1) unstable; urgency=medium
 
-  * Initial release
+  * Package void 1.0.2 from crates.io using debcargo 2.1.1
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Ximin Luo <infinity0@debian.org>  Fri, 22 Jun 2018 00:41:32 -0700
